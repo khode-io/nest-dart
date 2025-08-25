@@ -141,10 +141,10 @@ packages:
     dependency: transitive
     description:
       name: dart_frog
-      sha256: f00a2477408f706dc22ee263047b6556bf64a18ff7c31f9d2817985877a726c5
+      sha256: "84b8f82413f622dfdcfba6982522f8752ece09b49fea9a35f8794a0b2bc357e4"
       url: "https://pub.dev"
     source: hosted
-    version: "1.2.1"
+    version: "1.2.3"
   file:
     dependency: transitive
     description:
@@ -564,10 +564,10 @@ packages:
     dependency: transitive
     description:
       name: vector_math
-      sha256: "80b3257d1492ce4d091729e3a67a60407d227c27241d6927be0130c98e741803"
+      sha256: d530bd74fea330e6e364cda7a85019c434070188383e1cd8d9777ee586914c5b
       url: "https://pub.dev"
     source: hosted
-    version: "2.1.4"
+    version: "2.2.0"
   vm_service:
     dependency: transitive
     description:
