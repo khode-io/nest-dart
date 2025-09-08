@@ -15,7 +15,7 @@ dependencies:
   flutter:
     sdk: flutter
   nest_core: ^0.1.1
-  go_router: any
+  go_router: 16.2.1
   # nest_core:
   #   path: ../../packages/nest_core
 
